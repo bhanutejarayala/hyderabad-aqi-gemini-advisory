@@ -1,0 +1,42 @@
+[
+  {
+    "station": "Bollaram",
+    "predicted_aqi": 317.8,
+    "category": "Very Poor",
+    "dominant_pollutant": "PM2.5",
+    "advisory_en": "Attention Bollaram residents: Air quality is forecast to be 'Very Poor' for the next 24 hours. The main concern is tiny particles (PM2.5) that can deeply penetrate your lungs. Children, the elderly, and individuals with respiratory conditions like asthma should minimize extended outdoor activities. If you must go out, consider wearing a mask.",
+    "advisory_te": "బొల్లారం నివాసులకు ముఖ్య గమనిక: రాబోయే 24 గంటల్లో గాలి నాణ్యత 'చాలా అధ్వాన్నంగా' ఉండబోతోంది. ముఖ్యంగా, ఊపిరితిత్తుల్లోకి సులభంగా చేరే చిన్న ధూళి కణాలు (PM2.5) అధికంగా ఉన్నాయి. పిల్లలు, వృద్ధులు మరియు ఆస్తమా వంటి శ్వాసకోశ సమస్యలు ఉన్నవారు ఎక్కువసేపు బయట ఉండకుండా చూసుకోవాలి. అత్యవసరమైతే మాస్కులు ధరించడం మంచిది."
+  },
+  {
+    "station": "IDA_Pashamylaram",
+    "predicted_aqi": 178.6,
+    "category": "Moderate",
+    "dominant_pollutant": "PM2.5",
+    "advisory_en": "Air quality in IDA_Pashamylaram is forecast to be Moderate over the next 24 hours. This means the presence of fine particulate matter (PM2.5) in the air, which can be concerning. Children, the elderly, and those with respiratory issues should limit prolonged outdoor exertion during this period.",
+    "advisory_te": "IDA_Pashamylaram ప్రాంతంలో వచ్చే 24 గంటల పాటు గాలి నాణ్యత 'మధ్యస్థం'గా (Moderate) ఉంటుందని అంచనా వేయబడింది. అంటే, గాలిలో PM2.5 అనే సూక్ష్మ కణాలు ఎక్కువగా ఉండవచ్చు, ఇది కొంత ఆందోళన కలిగించే విషయం. పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలు ఉన్నవారు ఈ సమయంలో ఎక్కువసేపు బయట శారీరక శ్రమను తగ్గించుకోవాలని సూచించడమైనది."
+  },
+  {
+    "station": "ICRISAT_Patancheru",
+    "predicted_aqi": 175.8,
+    "category": "Moderate",
+    "dominant_pollutant": "PM2.5",
+    "advisory_en": "For residents near ICRISAT_Patancheru, air quality is expected to be 'Moderate' over the next 24 hours, with an AQI of 175.8. The dominant pollutant is tiny dust particles (PM2.5), which are currently on a rising trend. Sensitive groups like children, the elderly, and those with respiratory conditions should limit prolonged outdoor activities and consider wearing a mask if venturing outside. Prioritize your well-being.",
+    "advisory_te": "ICRISAT_Patancheru ప్రాంత నివాసితులకు ముఖ్య గమనిక: రాబోయే 24 గంటల్లో గాలి నాణ్యత 'మధ్యస్థం'గా ఉండనుంది, AQI 175.8 వరకు అంచనా వేయబడింది. గాలిలో సూక్ష్మ ధూళి కణాలు (PM2.5) ఎక్కువగా ఉన్నాయని, అవి పెరుగుతున్నాయని గుర్తించండి. పిల్లలు, వృద్ధులు, మరియు శ్వాసకోశ సమస్యలున్నవారు ఎక్కువసేపు బయట తిరగడం తగ్గించి, బయటకు వెళ్లాల్సి వస్తే మాస్క్ ధరించడం మంచిది. మీ ఆరోగ్యం పట్ల శ్రద్ధ వహించండి."
+  },
+  {
+    "station": "Central_University",
+    "predicted_aqi": 167.7,
+    "category": "Moderate",
+    "dominant_pollutant": "PM2.5",
+    "advisory_en": "For the next 24 hours, air quality around Central University is forecast to be Moderate, with a rising trend. The primary concern is tiny dust particles (PM2.5). Sensitive groups like children, the elderly, and those with respiratory conditions should limit prolonged outdoor activities. It's advisable for these groups to wear masks if venturing outside.",
+    "advisory_te": "సెంట్రల్ యూనివర్సిటీ పరిసర ప్రాంతాల్లో రాబోయే 24 గంటల్లో గాలి నాణ్యత మధ్యస్థంగా (Moderate) ఉంటుందని, అది పెరుగుతూ ఉండే అవకాశం ఉందని అంచనా. ప్రధానంగా సూక్ష్మ ధూళి కణాలు (PM2.5) ఎక్కువగా ఉంటాయి. పిల్లలు, వృద్ధులు, శ్వాసకోశ సమస్యలు ఉన్నవారు వంటి సున్నితమైన వర్గాల వారు ఎక్కువసేపు బయట తిరగడం తగ్గించాలి. బయటకు వెళ్ళినప్పుడు మాస్కులు ధరించడం శ్రేయస్కరం."
+  },
+  {
+    "station": "Zoo_Park",
+    "predicted_aqi": 234.6,
+    "category": "Poor",
+    "dominant_pollutant": "PM2.5",
+    "advisory_en": "Attention residents near Zoo Park: Air quality is forecast to be 'Poor' for the next 24 hours, with an AQI of 234.6. The primary concern is PM2.5, which are tiny airborne particles that can affect health. Sensitive groups like children, the elderly, and those with respiratory issues should minimize prolonged outdoor activities. Consider wearing N95 masks if you must go out.",
+    "advisory_te": "జూ పార్క్ పరిసరాల్లోని నివాసితులకు ముఖ్య గమనిక: రాబోయే 24 గంటల్లో గాలి నాణ్యత 'చాలా నాసిరకంగా' (Poor) ఉంటుందని అంచనా, AQI 234.6గా నమోదవుతుంది. ముఖ్యంగా, PM2.5గా పిలవబడే అతి సూక్ష్మమైన దుమ్ము కణాలు గాలిలో ఎక్కువగా ఉండటం దీనికి కారణం, ఇవి ఆరోగ్యానికి హానికరం. పిల్లలు, వృద్ధులు, మరియు శ్వాసకోశ సమస్యలు ఉన్నవారు బయట ఎక్కువసేపు తిరగడం తగ్గించండి. బయటికి వెళ్ళాల్సి వస్తే, N95 మాస్క్‌లు ధరించడం సురక్షితం."
+  }
+]
